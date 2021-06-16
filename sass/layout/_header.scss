@@ -1,4 +1,4 @@
-.top-header {
+.header {
   padding-top: 24px;
   padding-bottom: 24px;
   border-bottom: 1px solid #ececec;
@@ -8,7 +8,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.navigation {
+.header__navigation {
   display: flex;
   align-items: center;
 }
