@@ -18,14 +18,18 @@
   }
 }
 
-.button-subscription {
+.button_subscription {
   display: flex;
   align-items: center;
   align-self: flex-end;
   padding-left: 29px;
   padding-right: 28px;
+  & > span {
+    margin-right: 10px;
+  }
 }
-.button-modal-form {
+
+.button_modal-form {
   align-self: center;
 }
 .button-filter {
